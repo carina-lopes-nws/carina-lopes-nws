@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @carina-lopes-nws
-- 👀 I’m interested in web developpement
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning at normandie web school
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
